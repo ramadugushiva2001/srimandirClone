@@ -1,0 +1,25 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100vw;
+  height: 10vh;
+}
+.nav-items {
+  display: flex;
+  list-style: none;
+}
+
+.nav-item {
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.profile-button {
+  width: 100px;
+  height: 35px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
